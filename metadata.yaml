@@ -1,0 +1,39 @@
+_repo: Deeds-that-Won-the-EmpireHistoric-Battle-Scenes_19255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitchett, W. H. (William Henry)
+    alias: Fitchett, William Henry
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '8564'
+    url: http://www.gutenberg.org/2009/agents/8564
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Fitchett
+description: The fight off Cape St. Vincent. The Heights of Abraham. The great Lord
+  Hawke. The night attack on Badajos. The fire-ships in the Basque Roads. The man
+  who spoiled Napoleon's "destiny!" Great sea-duels. The blood-stained Hill of Busako.
+  Of Nelson and the Nile. The fusileers at Albuera. The "Shannon" and the "Chesapeake."
+  The great breach of Ciudad Rodrigo. How the "Hermione" was recaptured. French and
+  English in the passes. Famous cutting-out expeditions. Mountain combats. The bloodiest
+  fight in the Peninsula. The battle of the Baltic. King-making Waterloo. The night
+  attack of Cadiz. Trafalgar.
+gutenberg_issued: '2006-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History, Military'
+- !lcsh 'Great Britain. Army -- History'
+- !lcsh 'Battles -- Great Britain'
+- !lcc 'DA'
+title: 'Deeds that Won the Empire
+
+  Historic Battle Scenes'
+url: http://www.gutenberg.org/ebooks/19255
